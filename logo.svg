@@ -1,0 +1,25 @@
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Her Wellness logo</title>
+  <desc>Minimalist text logo for Her Wellness health platform</desc>
+
+  <style>
+    .logo-main {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 64px;
+      font-weight: 400;
+      fill: #6B1A2A;
+      letter-spacing: 4px;
+    }
+    .logo-tag {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 13px;
+      font-weight: 400;
+      fill: #8B5A5A;
+      letter-spacing: 5px;
+    }
+  </style>
+
+  <text x="340" y="105" text-anchor="middle" class="logo-main">Her Wellness</text>
+  <line x1="200" y1="118" x2="480" y2="118" stroke="#6B1A2A" stroke-width="0.8"/>
+  <text x="340" y="148" text-anchor="middle" class="logo-tag">HEALTH EDUCATION FOR BLACK WOMEN</text>
+</svg>
